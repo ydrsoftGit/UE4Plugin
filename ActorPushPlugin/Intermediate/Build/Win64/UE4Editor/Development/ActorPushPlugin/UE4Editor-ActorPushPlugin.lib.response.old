@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ActorPushPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\TestWorkSpace\PushActorPlugin\Intermediate\Build\Win64\PushActorPluginEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\TestWorkSpace\PushActorPlugin\Plugins\ActorPushPlugin\Intermediate\Build\Win64\UE4Editor\Development\ActorPushPlugin\ActorPushPlugin.cpp.obj"
+"E:\TestWorkSpace\PushActorPlugin\Plugins\ActorPushPlugin\Intermediate\Build\Win64\UE4Editor\Development\ActorPushPlugin\Default.rc2.res"
+/OUT:"E:\TestWorkSpace\PushActorPlugin\Plugins\ActorPushPlugin\Intermediate\Build\Win64\UE4Editor\Development\ActorPushPlugin\UE4Editor-ActorPushPlugin.lib"
+/INCLUDE:IMPLEMENT_MODULE_ActorPushPlugin

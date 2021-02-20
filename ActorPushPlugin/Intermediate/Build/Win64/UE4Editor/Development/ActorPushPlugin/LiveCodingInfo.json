@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ActorPushPlugin.cpp.obj": [
+			"ActorPushComponent.cpp.obj",
+			"ActorPushPlugin.cpp.obj"
+		],
+		"Module.ActorPushPlugin.gen.cpp.obj": [
+			"ActorPushComponent.gen.cpp.obj",
+			"ActorPushPlugin.init.gen.cpp.obj"
+		]
+	}
+}
